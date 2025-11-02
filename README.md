@@ -1,4 +1,4 @@
-# Automated mRNCA Vaccine Creation via AI based mRNA Transcoding
+# Automated mRNA Vaccine Creation via AI based mRNA Transcoding
 
 Published 11/01/2025
 
