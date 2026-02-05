@@ -1,3 +1,5 @@
+# Disclaimer: The following is nothing but an experimental concept, and may lack scientific accuracy, However it's construct is meant to stay in the public domain and to stop the monopolization of AI assisted technologies, the concept itself may not be a 1:1 representation of the medical field, but by keeping the concept in the public domain it remains accessible for all to use freely under the the license provided.
+
 # Automated mRNA Vaccine Creation via AI based mRNA Transcoding
 
 Published 11/01/2025
